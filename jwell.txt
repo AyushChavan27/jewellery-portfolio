@@ -1,0 +1,16 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyA-Ru6jNLMZGVOM-q3wufLpnv5f2Wq-15s",
+  authDomain: "jewelleryportfolio-92e36.firebaseapp.com",
+  projectId: "jewelleryportfolio-92e36",
+  storageBucket: "jewelleryportfolio-92e36.firebasestorage.app",
+  messagingSenderId: "400390440033",
+  appId: "1:400390440033:web:aa3b8f3c9d8fe4379cd620",
+  measurementId: "G-1DC8W1GZ3V"
+};
+
+
+http://localhost:3000/collection
+http://localhost:3000/admin/dashboard
+
+
+taskkill /F /IM node.exe
