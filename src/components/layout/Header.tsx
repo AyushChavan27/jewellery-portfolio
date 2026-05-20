@@ -26,7 +26,7 @@ export default function Header() {
 
           {/* Logo */}
           <Link href="/" className="flex-shrink-0 text-center md:text-left">
-            <h1 className="text-2xl md:text-3xl font-serif tracking-widest text-gold-500">SWAPNA NAGARI JWELLERS</h1>
+            <h1 className="text-2xl md:text-3xl font-serif tracking-widest text-gold-500">SWAPNA NAGARI</h1>
           </Link>
 
           {/* Desktop Navigation */}

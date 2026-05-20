@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
           {/* Brand */}
           <div className="col-span-1 md:col-span-1">
-            <h2 className="text-2xl font-serif tracking-widest text-gold-500 mb-6">SWAPNA NAGARI JWELLERS</h2>
+            <h2 className="text-2xl font-serif tracking-widest text-gold-500 mb-6">SWAPNA NAGARI JEWELLERS</h2>
             <p className="text-gray-400 text-sm leading-relaxed mb-6">
               Crafting timeless elegance and modern luxury through meticulously designed jewellery pieces.
             </p>
@@ -71,7 +71,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-charcoal-800 pt-8 flex flex-col md:flex-row items-center justify-between text-xs text-gray-500">
-          <p>&copy; {new Date().getFullYear()} SWAPNA NAGARI JWELLERS. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} SWAPNA NAGARI JEWELLERS. All rights reserved.</p>
           <div className="flex gap-4 mt-4 md:mt-0">
             <Link href="/admin/login" className="hover:text-gold-500 transition-colors">Admin Portal</Link>
           </div>

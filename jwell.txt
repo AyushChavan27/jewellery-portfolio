@@ -14,3 +14,7 @@ http://localhost:3000/admin/dashboard
 
 
 taskkill /F /IM node.exe
+
+
+git remote add origin https://github.com/AyushChavan27/jewellery-portfolio.git
+git push -u origin main
